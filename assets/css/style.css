@@ -1,7 +1,7 @@
 /* Variable  */
 
 :root {
-    --body-color: #4D59FB;
+    --body-color: #273c75;
     --text-color: ;
     --body-font: poppins;
 }
@@ -155,7 +155,7 @@ body{
 .details .details__box{
     padding: .0rem ;
     /* border-right: 1px solid #e0e0e0; */
-    border-left: 3px solid #4e58ec;
+    border-left: 3px solid var(--body-color);
     border-radius: 7px;
     padding-left: .8rem;
 
